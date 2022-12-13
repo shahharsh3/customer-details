@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: harsh.shah03
+Build-Jdk: 17.0.4
+Implementation-Title: Customer-Microservice
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.infosys.infytel
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/CustomerMS
+Created-By: Maven Integration for Eclipse
+
